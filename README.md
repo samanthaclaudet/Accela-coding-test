@@ -19,18 +19,7 @@ To test create, update and delete actions, please use Postman.
 <br>
 Here is a link to my collection of requests :
 
-<div class="postman-run-button"
-data-postman-action="collection/import"
-data-postman-var-1="e3b4758b2a62f5b9581c"></div>
-<script type="text/javascript">
-  (function (p,o,s,t,m,a,n) {
-    !p[s] && (p[s] = function () { (p[t] || (p[t] = [])).push(arguments); });
-    !o.getElementById(s+t) && o.getElementsByTagName("head")[0].appendChild((
-      (n = o.createElement("script")),
-      (n.id = s+t), (n.async = 1), (n.src = m), n
-    ));
-  }(window, document, "_pm", "PostmanRunObject", "https://run.pstmn.io/button.js"));
-</script>
+[![Run in Postman](https://run.pstmn.io/button.svg)](https://god.postman.co/run-collection/7e3c7de484ca6b097dab)
 
 (if button doesn't work please use this link to import in your workspace: <a href="https://www.getpostman.com/collections/e3b4758b2a62f5b9581c">https://www.getpostman.com/collections/e3b4758b2a62f5b9581c</a>)
 
